@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyizuezo.github.io/Dsp/sitemap_index.txt
+Sitemap: https://eyizuezo.github.io/Ebi/sitemap_index.txt
+Sitemap: https://eyizuezo.github.io/ZbS/sitemap_index.txt
+Sitemap: https://eyizuezo.github.io/cyN/sitemap_index.txt
